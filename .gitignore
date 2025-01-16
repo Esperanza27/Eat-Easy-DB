@@ -1,0 +1,9 @@
+# SQLite database files
+*.sqlite
+*.sqlite3
+
+# Backup files often created during development
+*.sqlite.bak
+*.sqlite3.bak
+*.sqlite.tmp
+*.sqlite3.tmp
