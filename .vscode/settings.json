@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Eat-Easy DB",
+            "group": "My Databases",
+            "database": "eat_easy.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
